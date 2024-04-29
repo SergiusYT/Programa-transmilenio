@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-19">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="Recursos/Lib/jgrapht-1.5.2/lib/antlr4-runtime-4.12.0.jar"/>
+	<classpathentry kind="lib" path="Recursos/Lib/jgrapht-1.5.2/lib/apfloat-1.10.1.jar"/>
+	<classpathentry kind="lib" path="Recursos/Lib/jgrapht-1.5.2/lib/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="Recursos/Lib/jgrapht-1.5.2/lib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="Recursos/Lib/jgrapht-1.5.2/lib/commons-text-1.10.0.jar"/>
+	<classpathentry kind="lib" path="Recursos/Lib/jgrapht-1.5.2/lib/dsiutils-2.7.3.jar"/>
+	<classpathentry kind="lib" path="Recursos/Lib/jgrapht-1.5.2/lib/guava-31.1-jre.jar"/>
+	<classpathentry kind="lib" path="Recursos/Lib/jgrapht-1.5.2/lib/fastutil-8.5.12.jar"/>
+	<classpathentry kind="lib" path="Recursos/Lib/jgrapht-1.5.2/lib/jgrapht-core-1.5.2.jar"/>
+	<classpathentry kind="lib" path="Recursos/Lib/jgrapht-1.5.2/lib/jgrapht-demo-1.5.2.jar"/>
+	<classpathentry kind="lib" path="Recursos/Lib/jgrapht-1.5.2/lib/jgrapht-opt-1.5.2.jar"/>
+	<classpathentry kind="lib" path="Recursos/Lib/jgrapht-1.5.2/lib/jgrapht-unimi-dsi-1.5.2.jar"/>
+	<classpathentry kind="lib" path="Recursos/Lib/jgrapht-1.5.2/lib/jsap-20210129.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
